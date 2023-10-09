@@ -90,7 +90,47 @@ new Vue({
             source: "./assets/mp3/Charlie-Puth-Cheating-on-You.mp3",
             url: "https://www.youtube.com/watch?v=fOoSbUoayQE",
             favorited: false
-          }
+          },
+          {
+            name: "Seamin Tapi Tak Seiman",
+            artist: "Mahen",
+            cover: "./assets/img/mahen-seamin-tak-seiman.jpg",
+            source: "./assets/mp3/Mahen-Seamin-Tak-Seiman.mp3",
+            url: "https://www.youtube.com/watch?v=riEqFZFbnWk",
+            favorited: true
+          },
+          {
+            name: "Seventeen",
+            artist: "JKT48",
+            cover: "./assets/img/jkt48.jpg",
+            source: "./assets/mp3/JKT48-Seventeen.mp3",
+            url: "https://www.youtube.com/watch?v=JvGpGRzJ38U",
+            favorited: true
+          },
+          {
+            name: "Janji Setia",
+            artist: "Tiara Andini",
+            cover: "./assets/img/janji-setia-tiara-andini.jpg",
+            source: "./assets/mp3/Tiara Andini-Janji-Setia.mp3",
+            url: "https://www.youtube.com/watch?v=PVIvHCX35hU",
+            favorited: false
+          },
+          {
+            name: "Tapi Bukan Aku",
+            artist: "Kerispatih",
+            cover: "./assets/img/kerispatih-tapi-bukan-aku.jpg",
+            source: "./assets/mp3/Kerispatih-Tapi-Bukan-Aku.mp3",
+            url: "https://www.youtube.com/watch?v=wqGBByL--jk",
+            favorited: false
+          },
+          {
+            name: "On My Way",
+            artist: "Alan Walker, Sabrina Carpenter & Farruko",
+            cover: "./assets/img/aw-on-my-way.jpg",
+            source: "./assets/mp3/Alan-Walker-Sabrina-Carpenter-Farruko-On-My-Way.mp3",
+            url: "https://www.youtube.com/watch?v=dhYOPzcsbGM",
+            favorited: true
+          },
         ],
         currentTrack: null,
         currentTrackIndex: 0,
